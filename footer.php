@@ -111,6 +111,7 @@ $(function () {
             [ 'para', [ 'ol', 'ul', 'paragraph', 'height' ] ],
             [ 'table', [ 'table' ] ],
             [ 'view', [ 'undo', 'redo', 'fullscreen', 'codeview', 'help' ] ]
+			[ 'test' ]
         ]
     })
 
